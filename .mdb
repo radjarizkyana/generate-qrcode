@@ -1,0 +1,10 @@
+{
+  "projectName": "project-qrcode",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "php-laravel"
+  },
+  "hash": "22192800"
+}
